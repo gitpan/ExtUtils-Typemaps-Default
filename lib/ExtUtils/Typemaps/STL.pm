@@ -6,7 +6,7 @@ use ExtUtils::Typemaps;
 use ExtUtils::Typemaps::STL::Vector;
 use ExtUtils::Typemaps::STL::String;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 our @ISA = qw(ExtUtils::Typemaps);
 
@@ -68,7 +68,7 @@ __END__
 L<ExtUtils::Typemaps>, L<ExtUtils::Typemaps::Default>
 
 L<ExtUtils::Typemaps::STL::String>,
-L<ExtUtils::Typemaps::STL::Vector
+L<ExtUtils::Typemaps::STL::Vector>
 
 =head1 AUTHOR
 

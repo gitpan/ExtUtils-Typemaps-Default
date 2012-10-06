@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   Module::Build: 0.38
 dynamic_config: 1
-generated_by: 'Module::Build version 0.38, CPAN::Meta::Converter version 2.110930'
+generated_by: 'Module::Build version 0.38, CPAN::Meta::Converter version 2.120921'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -16,42 +16,42 @@ name: ExtUtils-Typemaps-Default
 provides:
   ExtUtils::Typemap::Basic:
     file: lib/ExtUtils/Typemap/Basic.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemap::Default:
     file: lib/ExtUtils/Typemap/Default.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemap::ObjectMap:
     file: lib/ExtUtils/Typemap/ObjectMap.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemap::STL:
     file: lib/ExtUtils/Typemap/STL.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemap::STL::String:
     file: lib/ExtUtils/Typemap/STL/String.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemap::STL::Vector:
     file: lib/ExtUtils/Typemap/STL/Vector.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::Basic:
     file: lib/ExtUtils/Typemaps/Basic.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::Default:
     file: lib/ExtUtils/Typemaps/Default.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::ObjectMap:
     file: lib/ExtUtils/Typemaps/ObjectMap.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::STL:
     file: lib/ExtUtils/Typemaps/STL.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::STL::String:
     file: lib/ExtUtils/Typemaps/STL/String.pm
-    version: 1.00
+    version: 1.01
   ExtUtils::Typemaps::STL::Vector:
     file: lib/ExtUtils/Typemaps/STL/Vector.pm
-    version: 1.00
+    version: 1.01
 requires:
   ExtUtils::Typemaps: 1.00
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.00
+version: 1.01
